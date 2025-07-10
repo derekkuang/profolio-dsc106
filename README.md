@@ -1,1 +1,1 @@
-# Profolio Website built for dsc106
+# Portfolio Website for dsc106
